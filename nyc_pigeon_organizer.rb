@@ -12,5 +12,6 @@ def nyc_pigeon_organizer(data)
     end 
     new_hash[name][gender] = gender 
     i+=1 
-    
+  end
+  new_hash
 end
